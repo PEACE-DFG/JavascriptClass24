@@ -1,0 +1,1 @@
+document.getElementById('demo').innerHTML='JS OUTPUT WITH INNER HTML'
